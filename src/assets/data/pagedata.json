@@ -1,0 +1,801 @@
+[
+    {
+        "arear": "leftList",
+        "content": [
+            {
+                "title": [
+                    "美食"
+                ],
+                "icon": "el-icon-fork-spoon",
+                "hot": false,
+                "ID": "0001",
+                "children": [
+                    {
+                        "title": "美食",
+                        "content": [
+                            "代金券",
+                            "甜点",
+                            "饮品",
+                            "火锅",
+                            "自助餐",
+                            "小吃",
+                            "快餐",
+                            "日韩料理",
+                            "西餐",
+                            "烧烤烤肉",
+                            "东北菜",
+                            "川湘菜"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "酒店"
+                ],
+                "icon": "el-icon-s-home",
+                "hot": "HOT",
+                "ID": "0002",
+                "children": [
+                    {
+                        "title": "热门城市",
+                        "content": [
+                            "上海",
+                            "成都",
+                            "济南",
+                            "青岛",
+                            "北京",
+                            "兰州",
+                            "哈尔滨",
+                            "乌鲁木齐",
+                            "西餐",
+                            "烧烤烤肉",
+                            "东北菜",
+                            "川湘菜"
+                        ]
+                    },
+                    {
+                        "title": "热门房源",
+                        "content": [
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "日韩料理",
+                            "西餐",
+                            "烧烤烤肉",
+                            "东北菜",
+                            "川湘菜"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "名宿"
+                ],
+                "icon": "el-icon-film",
+                "hot": false,
+                "ID": "0003",
+                "children": [
+                    {
+                        "title": "名宿",
+                        "content": [
+                            "名宿",
+                            "名宿·魔法石",
+                            "名宿·等你",
+                            "名宿·地战警",
+                            "名宿·J",
+                            "名宿·w"
+                        ]
+                    },
+                    {
+                        "title": "主题",
+                        "content": [
+                            "主题城",
+                            "主题影影城",
+                            "主题院",
+                            "主题影城",
+                            "主题城",
+                            "主题际影城",
+                            "主题禾影城",
+                            "主题影城",
+                            "主题际影城",
+                            "主题电影院",
+                            "主题",
+                            "主题"
+                        ]
+                    },
+                    {
+                        "title": "主题2",
+                        "content": [
+                            "主题2影城",
+                            "主题2上影影城",
+                            "主题2影院",
+                            "主题2宫影城",
+                            "主题2影城",
+                            "主题2国际影城",
+                            "主题2嘉禾影城",
+                            "主题2电影城",
+                            "主题2国际影城",
+                            "主题2明电影院",
+                            "主题2菜",
+                            "主题2菜"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "猫眼电影"
+                ],
+                "icon": "el-icon-video-camera-solid",
+                "hot": false,
+                "ID": "0015",
+                "children": [
+                    {
+                        "title": "热门电影",
+                        "content": [
+                            "八佰",
+                            "哈利·波特与魔法石",
+                            "我在时间尽头等你",
+                            "1/2的魔法绝地战警",
+                            "星际穿越1917",
+                            "兰州"
+                        ]
+                    },
+                    {
+                        "title": "热门影院",
+                        "content": [
+                            "万达影城",
+                            "SFC上影影城",
+                            "大地影院",
+                            "百丽宫影城",
+                            "CGV影城",
+                            "星美国际影城",
+                            "橙天嘉禾影城",
+                            "横店电影城",
+                            "博纳国际影城",
+                            "大光明电影院",
+                            "东北菜",
+                            "川湘菜"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "机票",
+                    "火车票"
+                ],
+                "icon": "el-icon-truck",
+                "hot": false,
+                "ID": "0004",
+                "children": [
+                    {
+                        "title": "机票",
+                        "content": [
+                            "优惠",
+                            "假期",
+                            "团购机票",
+                            "5折活动"
+                        ]
+                    },
+                    {
+                        "title": "火车票",
+                        "content": [
+                            "火车优惠",
+                            "火车假期",
+                            "团购火车票",
+                            "5折活动"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "休闲娱乐",
+                    "KTV"
+                ],
+                "icon": "el-icon-mic",
+                "hot": false,
+                "ID": "0005",
+                "children": [
+                    {
+                        "title": "休闲娱乐",
+                        "content": [
+                            "Dota",
+                            "PUBG",
+                            "学习web",
+                            "5折活动"
+                        ]
+                    },
+                    {
+                        "title": "Ktv",
+                        "content": [
+                            "Ktv优惠",
+                            "Ktv假期",
+                            "Ktv票",
+                            "Ktv活动"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "结婚",
+                    "婚纱摄影",
+                    "婚宴"
+                ],
+                "icon": "el-icon-mic",
+                "hot": false,
+                "ID": "0006",
+                "children": [
+                    {
+                        "title": "结婚",
+                        "content": [
+                            "漂亮的天使"
+                        ]
+                    },
+                    {
+                        "title": "婚纱摄影",
+                        "content": [
+                            "婚纱优惠",
+                            "婚纱假期",
+                            "摄影票",
+                            "摄影活动"
+                        ]
+                    },
+                    {
+                        "title": "婚宴",
+                        "content": [
+                            "亲朋友好友",
+                            "Happy桌"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "贾伟",
+                    "爱李盼",
+                    "Oh耶！"
+                ],
+                "icon": "el-icon-mic",
+                "hot": false,
+                "ID": "0007",
+                "children": [
+                    {
+                        "title": "Oh耶！！！",
+                        "content": [
+                            "贾伟",
+                            "李盼"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "贾伟",
+                    "爱李盼",
+                    "Oh耶！"
+                ],
+                "icon": "el-icon-mic",
+                "hot": false,
+                "ID": "0008",
+                "children": [
+                    {
+                        "title": "Oh耶",
+                        "content": [
+                            "Oh耶！！！",
+                            "Oh耶！！！"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "猫眼电影"
+                ],
+                "icon": "el-icon-video-camera-solid",
+                "hot": false,
+                "ID": "0009",
+                "children": [
+                    {
+                        "title": "热门电影",
+                        "content": [
+                            "八佰",
+                            "哈利·波特与魔法石",
+                            "我在时间尽头等你",
+                            "1/2的魔法绝地战警",
+                            "星际穿越1917",
+                            "兰州"
+                        ]
+                    },
+                    {
+                        "title": "热门影院",
+                        "content": [
+                            "万达影城",
+                            "SFC上影影城",
+                            "大地影院",
+                            "百丽宫影城",
+                            "CGV影城",
+                            "星美国际影城",
+                            "橙天嘉禾影城",
+                            "横店电影城",
+                            "博纳国际影城",
+                            "大光明电影院",
+                            "东北菜",
+                            "川湘菜"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "酒店"
+                ],
+                "icon": "el-icon-s-home",
+                "hot": "HOT",
+                "ID": "0010",
+                "children": [
+                    {
+                        "title": "热门城市",
+                        "content": [
+                            "上海",
+                            "成都",
+                            "济南",
+                            "青岛",
+                            "北京",
+                            "兰州",
+                            "哈尔滨",
+                            "乌鲁木齐",
+                            "西餐",
+                            "烧烤烤肉",
+                            "东北菜",
+                            "川湘菜"
+                        ]
+                    },
+                    {
+                        "title": "热门房源",
+                        "content": [
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "房源1",
+                            "日韩料理",
+                            "西餐",
+                            "烧烤烤肉",
+                            "东北菜",
+                            "川湘菜"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "休闲娱乐",
+                    "KTV"
+                ],
+                "icon": "el-icon-mic",
+                "hot": false,
+                "ID": "0011",
+                "children": [
+                    {
+                        "title": "休闲娱乐",
+                        "content": [
+                            "Dota",
+                            "PUBG",
+                            "学习web",
+                            "5折活动"
+                        ]
+                    },
+                    {
+                        "title": "Ktv",
+                        "content": [
+                            "Ktv优惠",
+                            "Ktv假期",
+                            "Ktv票",
+                            "Ktv活动"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "oh耶",
+                    "KTV"
+                ],
+                "icon": "el-icon-mic",
+                "hot": false,
+                "ID": "0012",
+                "children": [
+                    {
+                        "title": "Oh耶",
+                        "content": [
+                            "Oh耶！！！",
+                            "Oh耶！！！"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "oh耶",
+                    "KTV"
+                ],
+                "icon": "el-icon-mic",
+                "hot": false,
+                "ID": "0013",
+                "children": [
+                    {
+                        "title": "Oh耶",
+                        "content": [
+                            "Oh耶！！！",
+                            "Oh耶！！！"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": [
+                    "oh耶",
+                    "KTV"
+                ],
+                "icon": "el-icon-mic",
+                "hot": false,
+                "ID": "0014",
+                "children": [
+                    {
+                        "title": "Oh耶",
+                        "content": [
+                            "Oh耶！！！",
+                            "Oh耶！！！"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "arear": "homeMovie",
+        "content": {
+            "coming": [
+                [
+                    {
+                        "name": "我在时间尽头等你",
+                        "imgUrl": "//p1.meituan.net/moviemachine/7e6118993dbf0f304ac1dad4667fddda207318.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/489894",
+                        "amount": 586388,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "小妇人",
+                        "imgUrl": "//p1.meituan.net/movie/cdb164c203fc0c2465278ddd165e91c84503798.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1230199",
+                        "amount": 126339,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "荞麦疯长",
+                        "imgUrl": "https://p1.meituan.net/movie/396a1e77ff4ef838a1c697ffbc71a8bb2730189.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1218159",
+                        "amount": 125385,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "盗梦空间",
+                        "imgUrl": "https://p1.meituan.net/moviemachine/c2496a7290a72eac6081321898c347693550574.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/416",
+                        "amount": 586388,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "梅艳芳菲",
+                        "imgUrl": "https://p0.meituan.net/moviemachine/d55c97f1f72cb62dafdb0c2ac19417d33291741.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1239962",
+                        "amount": 2533,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "我的男友是辅警",
+                        "imgUrl": "https://p1.meituan.net/movie/be22acfbc8c83ee1c4e90487dd370c421553761.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1357366",
+                        "amount": 586388,
+                        "isPresell": false
+                    }
+                ],
+                [
+                    {
+                        "name": "我的男友是辅警",
+                        "imgUrl": "https://p1.meituan.net/movie/be22acfbc8c83ee1c4e90487dd370c421553761.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1357366",
+                        "amount": 586388,
+                        "isPresell": false
+                    },
+                    {
+                        "name": "无名狂",
+                        "imgUrl": "https://p0.meituan.net/movie/afcf5837b6f1955a2c136542c0ed9d32392283.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1233290",
+                        "amount": 1452,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "无“疯”也起浪",
+                        "imgUrl": "https://p0.meituan.net/movie/0ae6152c39a4a97c3f30c92d1dc35fd35199891.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1238922",
+                        "amount": 44442,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "今生只为遇见你",
+                        "imgUrl": "https://p1.meituan.net/movie/b907eadfcafa0bd594b3d4e44952c9cc18752.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1301612",
+                        "amount": 123455,
+                        "isPresell": false
+                    },
+                    {
+                        "name": "电力之战",
+                        "imgUrl": "https://p1.meituan.net/moviemachine/a7739d0d38e8f6b63ba5bcbcb2874428583529.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/338059",
+                        "amount": 4513,
+                        "isPresell": true
+                    }
+                ]
+            ],
+            "hot": [
+                [
+                    {
+                        "name": "八佰",
+                        "imgUrl": "https://p0.meituan.net/moviemachine/a448ca6a5f4dafb88067722303ca0cfd96002.jpg@321w_445h_1e_1c",
+                        "imgMark": "//s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax.png",
+                        "movieUrl": "https://maoyan.com/films/346210",
+                        "score": 9.2,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "哈利·波特与魔法石",
+                        "imgUrl": "https://p0.meituan.net/moviemachine/4755165ffd65eb737bb5160ea911e0fa343438.jpg@321w_445h_1e_1c",
+                        "imgMark": "//s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax3d.png",
+                        "movieUrl": "https://maoyan.com/films/3606",
+                        "score": 9.3,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "荞麦疯长",
+                        "imgUrl": "https://p1.meituan.net/movie/396a1e77ff4ef838a1c697ffbc71a8bb2730189.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1218159",
+                        "amount": 125385,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "盗梦空间",
+                        "imgUrl": "https://p1.meituan.net/moviemachine/c2496a7290a72eac6081321898c347693550574.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/416",
+                        "amount": 586388,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "梅艳芳菲",
+                        "imgUrl": "https://p0.meituan.net/moviemachine/d55c97f1f72cb62dafdb0c2ac19417d33291741.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1239962",
+                        "amount": 2533,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "1/2的魔法",
+                        "imgUrl": "https://p1.meituan.net/moviemachine/27e15446e9e4999fa54bbad940b5a8363531802.jpg@321w_445h_1e_1c",
+                        "imgMark": "//s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax3d.png",
+                        "movieUrl": "https://maoyan.com/films/1284572",
+                        "score": 9.3,
+                        "isPresell": true
+                    }
+                ],
+                [
+                    {
+                        "name": "1/2的魔法",
+                        "imgUrl": "https://p1.meituan.net/moviemachine/27e15446e9e4999fa54bbad940b5a8363531802.jpg@321w_445h_1e_1c",
+                        "imgMark": "//s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax3d.png",
+                        "movieUrl": "https://maoyan.com/films/1284572",
+                        "score": 9.3,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "无“疯”也起浪",
+                        "imgUrl": "https://p0.meituan.net/movie/0ae6152c39a4a97c3f30c92d1dc35fd35199891.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1238922",
+                        "score": 9.3,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "今生只为遇见你",
+                        "imgUrl": "https://p1.meituan.net/movie/b907eadfcafa0bd594b3d4e44952c9cc18752.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1301612",
+                        "score": 9.3,
+                        "isPresell": false
+                    },
+                    {
+                        "name": "绝地战警：疾速追击",
+                        "imgUrl": "https://p0.meituan.net/movie/374663d4ad6df57d52ccb838ce19d51e583620.jpg@321w_445h_1e_1c",
+                        "imgMark": "//s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax.png",
+                        "movieUrl": "https://maoyan.com/films/341890",
+                        "amount": 4513,
+                        "isPresell": true
+                    },
+                    {
+                        "name": "荞麦疯长",
+                        "imgUrl": "https://p1.meituan.net/movie/396a1e77ff4ef838a1c697ffbc71a8bb2730189.jpg@321w_445h_1e_1c",
+                        "imgMark": "",
+                        "movieUrl": "https://maoyan.com/films/1218159",
+                        "amount": 125385,
+                        "isPresell": true
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "arear": "footer",
+        "content": [
+            [
+                {
+                    "title": "用户帮助",
+                    "text": [
+                        "查看美团券密码",
+                        "常见问题",
+                        "用户协议",
+                        "隐私政策",
+                        "反诈骗公告",
+                        "消费者权益保障"
+                    ]
+                },
+                {
+                    "title": "美团服务",
+                    "text": [
+                        "美团外卖",
+                        "猫眼电影",
+                        "美团酒店",
+                        "美团配送",
+                        "美团云",
+                        "大众点评",
+                        "美团民宿",
+                        "无人配送"
+                    ]
+                }
+            ],
+            [
+                {
+                    "title": "商家合作",
+                    "text": [
+                        "美团餐饮商户中心",
+                        "美食商家入驻",
+                        "美团收银官网",
+                        "美团外卖开店申请",
+                        "外卖配送加盟申请",
+                        "美团点评餐饮学院",
+                        "酒店商家入驻",
+                        "境内度假商家入驻",
+                        "美团民宿房东商家入驻",
+                        "商家开票申请",
+                        "美团点评智能收银机",
+                        "美团点评餐饮开放平台",
+                        "美团点评收单",
+                        "免费使用美团排队",
+                        "快驴进货商家合作",
+                        "美团闪购商家入驻"
+                    ]
+                }
+            ],
+            [
+                {
+                    "title": "美团规则",
+                    "text": [
+                        "规则中心",
+                        "规则目录",
+                        "规则评议院",
+                        "美团配送"
+                    ]
+                },
+                {
+                    "title": "代理商加盟",
+                    "text": [
+                        "美团外卖代理商招募",
+                        "到店餐饮代理商招募",
+                        "非餐饮代理商招募",
+                        "美团联盟",
+                        "美团收银招募线上分销商",
+                        "美团点评5S服务商招募",
+                        "美团民宿",
+                        "美团收单渠道代理商招募"
+                    ]
+                }
+            ],
+            [
+                {
+                    "title": "关注美团",
+                    "text": [
+                        "美团新浪微博"
+                    ]
+                },
+                {
+                    "title": "公司信息",
+                    "text": [
+                        "投资者关系",
+                        "加入我们",
+                        "商户诚信公约及管理办法",
+                        "保险经纪资质"
+                    ]
+                },
+                {
+                    "title": "廉正举报",
+                    "text": [
+                        "廉正举报平台",
+                        "知识产权",
+                        "规则评议院"
+                    ]
+                },
+                {
+                    "title": "知识产权",
+                    "text": [
+                        "维权平台"
+                    ]
+                }
+            ],
+            [
+                {
+                    "title": "消费者服务热线",
+                    "text": [
+                        "外卖消费者：10109777",
+                        "外卖消费者：10109777",
+                        "外卖消费者：10109777"
+                    ]
+                },
+                {
+                    "title": "商家服务热线",
+                    "text": [
+                        "维权外卖&餐饮商家：10105557平台",
+                        "休闲娱乐、丽人、ktv、教育、结婚、亲子、家装等商家：10100107"
+                    ]
+                },
+                {
+                    "title": "投诉举报专区",
+                    "text": [
+                        "违法和不良信息举报电话：4006018900",
+                        "举报邮箱：tousujubao@meituan.com",
+                        "网上有害信息举报"
+                    ]
+                },
+                {
+                    "title": "商家自助入驻美团入口",
+                    "text": []
+                },
+                {
+                    "title": "供应商注册入口",
+                    "text": []
+                }
+            ]
+        ]
+    }
+]
