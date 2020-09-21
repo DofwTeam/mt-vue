@@ -1,4 +1,7 @@
 module.exports = app => {
     const Mongoose = require('mongoose')
-    Mongoose.connect('mongodb://localhost/test', { useNewUrlParser: true })
+    Mongoose.connect('mongodb://localhost/test', {
+        useNewUrlParser: true,
+        useUnifiedTopology: true
+    })
 }
