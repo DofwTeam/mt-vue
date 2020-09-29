@@ -1,5 +1,3 @@
-const assert = require('http-assert')
-
 module.exports = app => {
     const express = require('express')
     const Word = require('../model/searchWord')
@@ -14,12 +12,12 @@ module.exports = app => {
     // 请求search word
     router.get('/api/word', async (req, res) => {
         if (req.query.word === '') {
-            return res.status(200).send([])
+            return res.status(200).send({})
         }
-        const data = await Word.find({
+        const data = await Word.findOne({
             word: eval('/' + '^' + req.query.word + '/i')
         })
-        res.status(200).send(data[0].content)
+        res.status(200).send(data.content)
     })
 
     // 请求leftList

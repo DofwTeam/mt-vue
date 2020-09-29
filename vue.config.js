@@ -1,6 +1,6 @@
 module.exports = {
     outputDir: __dirname + '/server/public',
-    // publicPath: process.env.NODE_ENV === 'production' ? '/' : '/',
+    publicPath: process.env.NODE_ENV === 'production' ? '/' : '/',
     devServer: {
         open: true,
         port: 5000,

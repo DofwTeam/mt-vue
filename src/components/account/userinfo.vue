@@ -40,26 +40,26 @@ export default {
             e = e.slice(0, 20)
             this.value = e
         },
-        keydown(e) {
-            console.log(e)
-            this.add()
-            this.fetch()
+        async keydown(e) {
+            // console.log(e)
+            await this.add()
+            await this.fetch()
         },
-        click() {
-            this.add()
-            this.fetch()
+        async click() {
+            await this.add()
+            await this.fetch()
         },
-        fetch() {
-            this.$http.get('/api/message/get').then(res => {
+        async fetch() {
+            await this.$http.get('/api/message/get').then(res => {
                 res.forEach(item => {
                     item.date = item.date.substring(0, 19)
                 })
                 this.message = res.reverse()
             })
         },
-        add() {
+        async add() {
             if (this.value !== '') {
-                this.$http.post('/api/message/add', {
+                await this.$http.post('/api/message/add', {
                     data: {
                         value: this.value
                     }
@@ -87,6 +87,7 @@ export default {
     }
     div.comment {
         width: 500px;
+        height: 300px;
         margin: 0 auto;
         ul {
             margin-top: 20px;

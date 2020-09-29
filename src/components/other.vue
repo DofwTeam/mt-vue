@@ -16,10 +16,10 @@ div.other {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 800px;
+    height: 577px;
     background-color: #000;
     background-image: url(../assets/img/toux.jpg);
-    background-size: cover;
+    background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
     h1 {

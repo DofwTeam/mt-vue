@@ -52,7 +52,6 @@
 
 <script>
 import searchTools from '@/utils/headerSearch/searchInput.js'
-// import duyiApi from '@/utils/axios/duyiAPI.js'
 
 export default {
     data() {
